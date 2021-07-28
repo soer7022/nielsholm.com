@@ -4,6 +4,11 @@ body {
     align-items: center;
     flex-direction: column;
     text-align: center;
+    width: 95vw;
+}
+
+img {
+    max-width: 95vw;
 }
 
 #welcome-banner {
